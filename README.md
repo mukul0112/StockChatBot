@@ -16,6 +16,7 @@ The project is deployed and is live too. 🔗 [Live Demo](https://stock-chat-bot
 Clone the repository and install dependencies:
 
 
+```bash
 git clone https://github.com/mukul0112/StockChatBot.git
 cd LSEGChatbot
 npm install
