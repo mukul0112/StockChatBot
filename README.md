@@ -18,6 +18,7 @@ This is a React project built with **Vite** and **Material UI** that displays st
 
 - Has a Chat bubble style interface
 - User can choose a stock exchange out of the listed three.
+- User's chats persist. Doesn't go away on selection of new stock.
 - After selecting any stock, user gets the chance to select any other stock again, and option to navigate to main menu.
 - Responsive design.
 - Simple and easy to use.
